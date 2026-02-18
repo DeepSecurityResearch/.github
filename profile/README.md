@@ -1,4 +1,4 @@
-![DeepSecurity Logo](DeepSecurity_Logo.png)
+![DeepSecurity Logo](../DeepSecurity_Logo.png)
 
 # DeepSecurity
 
